@@ -40,7 +40,7 @@ The project explores three speculative approaches for AI application:
 ### 5. Project Structure
 The repository is organized with the following files and directories:
 
-- __shadow/__: Directory containing the raw source images for the categories.
+- __shadow/__: Directory containing the raw source images for the categories and the split_data.py file that completes the classification data.
 - __Method 2/__: Directory containing the model files generated via Google Teachable Machine for real-time validation.
 - __Dataset_Final.zip__: Dataset.
 - __Shadow Variations.pdf__: The comprehensive project report detailing the research findings.
