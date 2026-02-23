@@ -2,3 +2,6 @@ Model link:
 
 https://colab.research.google.com/drive/15ufNecpujvOg13aK0CnSOhbH3MfOa7J7?usp=sharing
 
+Teachablemachine link：
+
+https://teachablemachine.withgoogle.com/models/U4_hXXK6d/
