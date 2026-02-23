@@ -42,7 +42,7 @@ The repository is organized with the following files and directories:
 
 - __shadow/__: Directory containing the raw source images for the categories.
 - __Method 2/__: Directory containing the model files generated via Google Teachable Machine for real-time validation.
-- __Dataset_Final.zip__: A compressed archive of the finalized, grayscaled, and partitioned dataset.
+- __Dataset_Final.zip__: Dataset.
 - __Shadow Variations.pdf__: The comprehensive project report detailing the research findings.
 - __shadow.ipynb__: The primary Jupyter Notebook used for model development and training.
 - __shadow.py__: The Python source script containing the model architecture and core logic.
